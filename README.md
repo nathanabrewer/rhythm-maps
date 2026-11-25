@@ -16,3 +16,5 @@ generation speed.
 Credits: reference maps by their community mappers (credited on each song);
 songs by their artists and labels (no audio is included); InfernoSaber by
 fred-brenner (MIT licence).
+
+The 3D view uses three.js (MIT licence, see LICENSE-three.txt), embedded in the page.
