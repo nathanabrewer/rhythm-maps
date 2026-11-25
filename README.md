@@ -18,3 +18,7 @@ songs by their artists and labels (no audio is included); InfernoSaber by
 fred-brenner (MIT licence).
 
 The 3D view uses three.js (MIT licence, see LICENSE-three.txt), embedded in the page.
+
+Listen: six CC BY tracks by Kevin MacLeod (incompetech.com, Creative Commons: By
+Attribution 4.0) play with sound in the virtual player, mapped by bluered and by
+InfernoSaber; credits in audio/CREDITS.md and on the page. The scored songs have no audio.
