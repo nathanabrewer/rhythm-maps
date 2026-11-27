@@ -1,7 +1,7 @@
 # Map makers compared
 
-An interactive comparison of audio-to-map models: **bluered**, our open-weights
-map makers trained only on community maps, against an open-source automapper.
+An interactive comparison of audio-to-map models: **bluered**, our map makers with downloadable weights,
+trained only on community maps, against an open-source automapper.
 Every map is scored against maps by expert community mappers, for songs none of
 our models trained on.
 
